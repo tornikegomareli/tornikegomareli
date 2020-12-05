@@ -11,11 +11,12 @@
   <img align="left" alt="Tornike's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<b>
+<b> </b>
 Hi, I'm [TornikeGomareli](https://twitter.com/tornikegomareli), a Software Engineer 🚀 from Tbilisi,Georgia. 
-- I'm a  🙍🏽‍♂️  <p><em>Software Engineer at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- Mentor and private coach 👨🏽‍💼.. 
-- Founder of [.NET Georgian Community](https://www.facebook.com/groups/375863892826868)  
+<b> </b>
+- I'm a  🙍🏽‍♂️  <p><em>Software Engineer at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. <b> </b>
+- Mentor and private coach 👨🏽‍💼.. <b> </b>
+- Founder of [.NET Georgian Community](https://www.facebook.com/groups/375863892826868)  <b> </b>
 - Husband and father of one, soon I will be father of two 👶 👶 </em></p>
-</b>
+
 
