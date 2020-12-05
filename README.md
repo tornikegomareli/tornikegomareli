@@ -18,3 +18,6 @@ Currently <p><em> working 🙍🏽‍♂️ at <a href="https://www.flatrocktech
 On free time I am mentor and private coach 👨🏽‍💼.. </em></p>
 
 
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
+
+
