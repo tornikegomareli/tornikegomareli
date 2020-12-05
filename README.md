@@ -13,6 +13,7 @@
 
 
 Hi, I'm [TornikeGomareli](https://twitter.com/tornikegomareli), a Software Engineer 🚀 from Tbilisi,Georgia. 
-I'm a  🙍🏽‍♂️  <p><em>Software Engineer at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Mentor and private coach 👨🏽‍💼.. Founder of [.NET Georgian Community](https://www.facebook.com/groups/375863892826868). Husband and father of one, soon I will be father of two 👶 👶 </em></p>
+Currently <p><em> working 🙍🏽‍♂️ at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Founder of [.NET Georgian Community](https://www.facebook.com/groups/375863892826868). Husband and father of one, soon I will be father of two 👶 👶 
+On free time I am mentor and private coach 👨🏽‍💼.. </em></p>
 
 
