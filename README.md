@@ -14,9 +14,9 @@
 </a>
 <a href="https://www.instagram.com/gomarelit/">
   <img align="left" alt="Tornike's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a><b></b>
 
-<b>
+
 
 
 - 🔭 I’m currently working on ...
