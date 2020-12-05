@@ -12,11 +12,11 @@
 </a><b></b>
 
 
-Hi, I'm [TornikeGomareli](https://blog.abhisheknaidu.tech/), a Software Engineer 🚀 from Tbilisi,Georgia. Currently, I'm a  🙍🏽‍♂️ 
-<p><em>Software Engineer at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> (https://opensource.creativecommons.org/community/community-team/members/), Mentor and private coach 👨🏽‍💼.. 
-Founder of [NET Georgian community](https://www.facebook.com/groups/375863892826868)  Beside's programming, I enjoy eating food and traveling.
-
-</em></p>
+Hi, I'm [TornikeGomareli](https://twitter.com/tornikegomareli), a Software Engineer 🚀 from Tbilisi,Georgia. 
+- I'm a  🙍🏽‍♂️  <p><em>Software Engineer at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- Mentor and private coach 👨🏽‍💼.. 
+- Founder of [TornikeGomareli](https://www.facebook.com/groups/375863892826868)  
+- Husband and father of one, soon I will be father of two 👶 👶 </em></p>
 
 
 
