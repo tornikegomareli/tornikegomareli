@@ -4,7 +4,7 @@
 </em></p>
 
 
-<img src="https://github.com/tornikegomareli/tornikegomareli/blob/main/images/discordpng.png?raw=true" width="48"><img src="https://github.com/tornikegomareli/tornikegomareli/blob/main/images/twitter_PNG1.png?raw=true" width="48">
+<img src="https://github.com/tornikegomareli/tornikegomareli/blob/main/images/discordpng.png?raw=true" width="48">  <img src="https://github.com/tornikegomareli/tornikegomareli/blob/main/images/twitter_PNG1.png?raw=true" width="48">
 
 
 
