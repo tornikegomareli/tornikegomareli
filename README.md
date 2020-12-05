@@ -11,6 +11,7 @@
   <img align="left" alt="Tornike's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br>
 
 Hi, I'm [TornikeGomareli](https://twitter.com/tornikegomareli), a Software Engineer 🚀 from Tbilisi,Georgia. 
 Currently <p><em> working 🙍🏽‍♂️ at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Founder of [.NET Georgian Community](https://www.facebook.com/groups/375863892826868). Husband and father of one, soon I will be father of two 👶 👶 
