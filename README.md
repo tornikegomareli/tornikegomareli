@@ -16,7 +16,7 @@
   <img align="left" alt="Tornike's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
+<b>
 
 
 - 🔭 I’m currently working on ...
