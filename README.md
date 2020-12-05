@@ -4,6 +4,12 @@
 </em></p>
 
 
+![](
+https://github.com/tornikegomareli/tornikegomareli/blob/main/images/linkedin-pixel-art-8bit-internet-linkedin-logo-pixel-pixel-art-social-networking-5a24f9c0f6c96a8d29720dd8.brickImg.jpg?raw=true | 250x250)
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
