@@ -12,8 +12,10 @@
 </a><b></b>
 
 
-<h2>I'm Tornike Gomareli <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Software Engineer at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Hi, I'm [TornikeGomareli](https://blog.abhisheknaidu.tech/), a Software Engineer 🚀 from Tbilisi,Georgia. Currently, I'm a  🙍🏽‍♂️ 
+<p><em>Software Engineer at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> (https://opensource.creativecommons.org/community/community-team/members/), Mentor and private coach 👨🏽‍💼.. 
+Founder of [NET Georgian community](https://www.facebook.com/groups/375863892826868)  Beside's programming, I enjoy eating food and traveling.
+
 </em></p>
 
 
