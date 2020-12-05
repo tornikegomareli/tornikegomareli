@@ -20,3 +20,9 @@
   <img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="500" height="320" />
 
 
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on healthcare application
+- 🌱 I’m currently using Swift and C#
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@tornikegomareli](https://twitter.com/tornikegomareli)
