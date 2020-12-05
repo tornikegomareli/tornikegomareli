@@ -4,6 +4,7 @@
 </em></p>
 
 
+<img src="https://github.com/tornikegomareli/tornikegomareli/blob/main/images/discordpixelart.png?raw=true" width="48">
 
 
 
