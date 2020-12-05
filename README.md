@@ -13,8 +13,8 @@
 
 <br>
 
-Hi, I'm [TornikeGomareli](https://twitter.com/tornikegomareli), a Software Engineer 🚀  from Tbilisi,Georgia. Currently working 🙍🏽‍♂️ at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Founder of [.NET Georgian Community](https://www.facebook.com/groups/375863892826868). Husband and father of one, soon I will be father of two 👶 👶 
-On free time I am mentor and private coach 👨🏽‍💼.. </em></p>
+Hi, I'm [TornikeGomareli](https://twitter.com/tornikegomareli), a Software Engineer 🚀  from Tbilisi,Georgia. Currently working 🙍🏽‍♂️ at <a href="https://www.flatrocktech.com/">FlatRockTechnology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Founder of [.NET Georgian Community](https://www.facebook.com/groups/375863892826868). <br> Husband and father of one, soon I will be father of two 👶 👶 
+<br> On free time I am mentor and private coach 👨🏽‍💼.. </em></p>
 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
