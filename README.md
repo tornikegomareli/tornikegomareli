@@ -5,7 +5,7 @@
 
 
 <img src="https://github.com/tornikegomareli/tornikegomareli/blob/main/images/discordpng.png?raw=true" width="48">
-<img src="https://github.com/tornikegomareli/tornikegomareli/blob/main/images/instagrampixelart.png?raw=true" width="48">
+<img src="https://github.com/tornikegomareli/tornikegomareli/blob/main/images/png-clipart-instagram-logo-illustration-computer-icons-logo-logo-instagram-miscellaneous-text.png?raw=true" width="48">
 <img src="https://github.com/tornikegomareli/tornikegomareli/blob/main/images/twitter.png?raw=true" width="48">
 <img src="https://github.com/tornikegomareli/tornikegomareli/blob/main/images/linkedinpng.png?raw=true" width="48">
 
