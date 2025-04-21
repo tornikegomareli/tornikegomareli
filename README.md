@@ -1,5 +1,4 @@
-I'm a Software Engineer mainly building things in Swift, sometimes diving into Rust for fun. Currently working at [Urban Sports Club](https://github.com/urbansportsclub).
-In my free time, I work on personal projects and contributing to OSS, experiment with new tech, and take on freelance work when something interesting comes up.
+I'm a Software Engineer mainly building things in Swift, sometimes diving into Rust for fun. Outside of my job, I work on personal projects and contributing to OSS, experiment with new tech, and take on freelance work when something interesting comes up.
 
 [Twitter](https://twitter.com/tornikegomareli) / [LinkedIn](https://linkedin.com/in/tornike-gomareli) / [Personal blog](https://tornike-gomareli-personal-website-yt6y.vercel.app/)
 
