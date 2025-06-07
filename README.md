@@ -5,6 +5,7 @@ I'm a Software Engineer mainly building things in Swift and Rust. Outside of my 
 ## Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift + Zed = ❤️](https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425)
 - [Swift Observation Framework](https://tornike-gomareli-personal-website-yt6y.vercel.app/swift-observation-framework/)
 - [Building Mobile Engineering Teams](https://tornike-gomareli-personal-website-yt6y.vercel.app/mobile-engineerind-teams/)
 - [Turning Doubt into Drive](https://tornike-gomareli-personal-website-yt6y.vercel.app/doubt-into-drive/)
@@ -19,6 +20,8 @@ I'm a Software Engineer mainly building things in Swift and Rust. Outside of my 
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎙️ Podcast Appearances
+- [Devtherapy #18 - Technical Leadership, Career Strategy, MIT, Forbes](https://youtu.be/aECGCXO1Nus?si=kDVpcmAmbR7Zr3Rc)
+- [Devtherapy #17 - Virtual Reality, XR, Oculus, Gaming, Police 1-2-3, Unity](https://youtu.be/NFmq3_ujDfU?si=fxVyGgrMJbc_5EjP)
 - [Devtherapy #16 – D3, Data visualization, JS, Workstations, Upwork](https://www.youtube.com/watch?v=Iw6R3NiEHXA)
 - [Devtherapy #15 – Dev Community, Terraform, AI Agents, AWS, Bun & Node](https://www.youtube.com/watch?v=4mbdXt_wcA0)
 - [Devtherapy #14 - Helio, AI Agents, Large Language Models, Machine Learning](https://www.youtube.com/watch?v=xE4MAuxHnLo)
