@@ -6,17 +6,17 @@ I'm a Software Engineer mainly building various types of things. Outside of my j
 
 <!-- BLOG-POST-LIST:START -->
 - [Swift + Zed = ❤️](https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425)
-- [Swift Observation Framework](https://tornike-gomareli-personal-website-yt6y.vercel.app/swift-observation-framework/)
-- [Building Mobile Engineering Teams](https://tornike-gomareli-personal-website-yt6y.vercel.app/mobile-engineerind-teams/)
-- [Turning Doubt into Drive](https://tornike-gomareli-personal-website-yt6y.vercel.app/doubt-into-drive/)
-- [Actors in Swift](https://tornike-gomareli-personal-website-yt6y.vercel.app/actors-swift/)
-- [High Performance Collections in Swift](https://tornike-gomareli-personal-website-yt6y.vercel.app/high-performance-collection/)
-- [Race Conditions, Locks, and Thread Safety](https://tornike-gomareli-personal-website-yt6y.vercel.app/race-conditions-locks-thread-safety/)
-- [Swift Method Dispatch](https://tornike-gomareli-personal-website-yt6y.vercel.app/swift-method-dispatch/)
-- [Swift Closures](https://tornike-gomareli-personal-website-yt6y.vercel.app/swift-closures/)
-- [CPU Virtualization](https://tornike-gomareli-personal-website-yt6y.vercel.app/cpu-virtualization/)
-- [Dealing with Imposter Syndrome](https://tornike-gomareli-personal-website-yt6y.vercel.app/imposter-syndrome/)
-- [Emacs Starter Kit](https://tornike-gomareli-personal-website-yt6y.vercel.app/emacs-starter-kit/)
+- [Swift Observation Framework](https://pipecraft.me/swift-observation-framework/)
+- [Building Mobile Engineering Teams](https://pipecraft.me/mobile-engineerind-teams/)
+- [Turning Doubt into Drive](https://pipecraft.me/doubt-into-drive/)
+- [Actors in Swift](https://pipecraft.me/actors-swift/)
+- [High Performance Collections in Swift](https://pipecraft.me/high-performance-collection/)
+- [Race Conditions, Locks, and Thread Safety](https://pipecraft.me/race-conditions-locks-thread-safety/)
+- [Swift Method Dispatch](https://pipecraft.me/swift-method-dispatch/)
+- [Swift Closures](https://pipecraft.me/swift-closures/)
+- [CPU Virtualization](https://pipecraft.me/cpu-virtualization/)
+- [Dealing with Imposter Syndrome](https://pipecraft.me/imposter-syndrome/)
+- [Emacs Starter Kit](https://pipecraft.me/emacs-starter-kit/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎙️ Podcast Appearances
