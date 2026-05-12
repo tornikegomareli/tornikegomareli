@@ -36,12 +36,4 @@ iOS 26.
 
 [`AgentKit`](https://github.com/tornikegomareli/AgentKit) Integrate agentic interaction into your iOS / macOS app with the LLM of your choice.
 
-[`lumen`](https://github.com/tornikegomareli/lumen) Real-time macOS hardware monitor — GPU-rendered dashboard and terminal UI, written in Zig.
-
-[`agent-teleport`](https://github.com/tornikegomareli/agent-teleport) Agent-agnostic session portability — teleport your sessions between coding agents.
-
-[`claudeignore`](https://github.com/tornikegomareli/claudeignore) Claude Code hook that blocks file access based on `.claudeignore` patterns — save tokens and protect sensitive files.
-
-[`tca-graph`](https://github.com/tornikegomareli/tca-graph) Interactive architecture visualizer and architectural-budget linter for Swift TCA codebases.
-
 
