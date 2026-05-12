@@ -7,9 +7,7 @@ I ship a lot of small things on Apple platforms, agent tooling, and the weird ed
 
 ---
 
-#### Top 20 public projects
-
-GitHub only lets me pin six repos, so here are the rest — ranked by stars.
+#### My recent work
 
 1. [**swift-pretextkit**](https://github.com/tornikegomareli/swift-pretextkit) ★164 — Swift port of `chenglou/pretext`, arithmetic text measurement for Apple platforms.
 2. [**gitdiff**](https://github.com/tornikegomareli/gitdiff) ★58 — high-performance SwiftUI component and pure-Swift parser for unified diffs, GitHub-style.
