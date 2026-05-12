@@ -1,7 +1,7 @@
 ### Tornike Gomareli
 
-Engineer, builder, tinkerer based in Tbilisi.
-I ship a lot of small things on Apple platforms, agent tooling, and the weird edges in between — and try to learn how to think a bit better while doing it. I write about most of it on [pipecraft.me](https://www.pipecraft.me/).
+Software engineer, builder, tinkerer.
+I ship a lot of things around dev tools, Apple platforms, and agent tooling. Sometimes I write on pipecraft.me (https://www.pipecraft.me/).
 
 [Twitter](https://twitter.com/tornikegomareli) · [LinkedIn](https://linkedin.com/in/tornike-gomareli) · [Blog](https://www.pipecraft.me/) · [Newsletter](https://tornikegomareli.substack.com/) · [YouTube](https://www.youtube.com/@Devtherapy)
 
